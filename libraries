@@ -1,0 +1,24 @@
+
+1.BOOST:
+ .Boost is a collection of libraries that provide a wide range of functionality for C++. 
+.It's like a toolbox that contains all the tools you need to build a house, from hammers and saws to drills and screwdrivers.
+
+  .Boost.Asio: Boost.Asio is a library for asynchronous I/O operations, including networking and timers.
+  .Boost.Filesystem: Boost.Filesystem is a library for working with files and directories.
+  .Boost.Spirit: Boost.Spirit is a library for parsing and generating text, including regular expressions and grammars.
+  .Boost.Test: Boost.Test is a library for unit testing, including test cases and assertions.
+
+
+
+2.STL:
+  .The Standard Template Library (STL) is a collection of templates that provide commonly used data structures and algorithms for C++.
+
+3.OpenCV:
+  .OpenCV is a library for computer vision that provides a wide range of functionality for image and video processing.
+
+4.OpenGL:
+  . OpenGL is a library for computer graphics that provides a way to render 2D and 3D graphics. 
+  .It's like a set of paint brushes and colors that you can use to create beautiful works of art, including landscapes, portraits, and abstract designs.
+
+5.QT:
+  .Qt is a library for creating graphical user interfaces (GUIs) for C++.
